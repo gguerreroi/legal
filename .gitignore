@@ -1,0 +1,5 @@
+# JetBrains Folders
+.idea/
+
+# Node Modules
+node_modules/
